@@ -16,6 +16,7 @@
   - Método de ataque: site clone
   - Obtendo o endereço da máquina: ifconfig
   - URL para clonar: http://www.facebook.com
+  - Utilizei um e-mail fictício: maria@gmail.com
 
   ### RESULTADOS
 
